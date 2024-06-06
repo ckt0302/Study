@@ -7,3 +7,8 @@ Deeplearning2 및 AI robot control 수업을 포함한 개인 프로젝트 정�
 - P-project: Depth camera를 이용한 Object detection 구현 코드 / Colab 기반
 
 - Robot programming: Ros 및 C++ 기반 간단한 예제 코드 / Robotis Simulation 예제 참고 
+
+
+Contact email: 
+
+ckt0302@gmail.com 
